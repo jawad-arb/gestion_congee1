@@ -1,0 +1,4 @@
+id_emp      id_demande          date deb        date fin        type_deman
+1           1                   01/12/2020      12/12/2020      impaye    
+2           2                   13/12/2020      20/12/2020      paye      
+2           4                   12/12/2020      15/12/2020      impaye    

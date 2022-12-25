@@ -1,0 +1,6 @@
+id        cin       nom            prenom         tele           date de naissance   salaire     
+1         s1        arbahi         jawad          12345          12/12/2001          12000       
+2         s123      arara          asdf           1234           12/12/2001          12120.00    
+3         s12345    arbib          adil           12345          12/12/2000          12000.00    
+4         ss        asdf           asdf           1234           12/12/2000          12300.00    
+5         s22       asd            asdf           1234           12/12/2002          12000.00    
